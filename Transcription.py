@@ -63,4 +63,3 @@ def save_transcript(audio_url):
         print("Error", error)
 
 audio_url = upload(filename)
-save_transcript(audio_url)
